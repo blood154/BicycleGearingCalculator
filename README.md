@@ -1,5 +1,7 @@
 # BicycleGearingCalculator
 
+The BicycleGearingCalculator.zip contains the executable file.
+
 Usage:
 1, Set the data for 
 -Front/rear chainring (number of teeth)
